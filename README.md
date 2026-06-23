@@ -1,7 +1,10 @@
 # cc63d-ci-demo — un pipeline de CI, paso a paso
 
+Esta es una prueba
+
 Ejemplo de la **Clase 5 (CI/CD)** del curso CC63D. Una mini aplicación en **Go**
 con una pipeline de GitHub Actions que muestra las tres etapas de un CI:
+
 
 ```
 compilar  →  pruebas unitarias  →  pruebas de integración
