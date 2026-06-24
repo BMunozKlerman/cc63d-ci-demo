@@ -7,5 +7,5 @@ func Total(montos []int) int {
 	for _, m := range montos {
 		suma += m
 	}
-	return suma
+	return suma + 10
 }
